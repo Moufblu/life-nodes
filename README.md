@@ -1,2 +1,2 @@
 # life-nodes
-Simple project to get familiar with React Native.
+Simple project to get familiar with some technologies.
